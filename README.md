@@ -2,7 +2,7 @@
 
 This is a placeholder repo. No significant work has been done on this project yet.
 
-Roadmap:
+<b>Roadmap:</b>
 
 Just finished reading 'Fire in the Valley' and it piqued my interest in retro computers and programing languages.
 
